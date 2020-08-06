@@ -125,7 +125,7 @@ Azure Active Directory には、iOS/iPadOS、Android、および Windows デバ�
 | --- | --- | --- | --- |
 | 名前 | EnterpriseRegistration。 company_domain.com | EnterpriseRegistration.windows.net | 1 時間|
 
-デバイス登録の詳細については、「[Azure portal を使用してデバイス ID を管理する](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal)」をご覧ください
+デバイス登録の詳細については、「[Azure Portal を使用してデバイス ID を管理する](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal)」をご覧ください
 
 ## <a name="windows-10-auto-enrollment-and-device-registration"></a>Windows 10 の自動登録とデバイス登録
 
