@@ -93,6 +93,6 @@ Desktop Analytics のプライバシー関連のよく寄せられる質問に�
 
 - [信頼できるクラウドであるという自信](https://azure.microsoft.com/overview/trusted-cloud/)  
 
-- [セキュリティ センター](https://www.microsoft.com/trustcenter)  
+- [トラスト センター](https://www.microsoft.com/trustcenter)  
 
 Desktop Analytics とは別に、Configuration Manager では、診断および使用状況データが Microsoft に送信されます。 このデータは、Configuration Manager の今後のリリースでインストールのエクスペリエンス、品質、セキュリティを向上させるために Microsoft によって使用されます。 詳細については、[Configuration Manager の診断結果と使用状況データ](../core/plan-design/diagnostics/diagnostics-and-usage-data.md)に関するページをご覧ください。
